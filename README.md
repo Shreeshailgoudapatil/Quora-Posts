@@ -64,6 +64,10 @@ This is a simple Node.js application that allows users to create, read, update, 
 ## Images
 Here is a screenshot of the project:
 
-![Screenshot](images/Screenshot(139).png)
+## Images
+Here is a screenshot of the project:
+
+![Screenshot (139)](https://github.com/user-attachments/assets/0770e50f-71c3-4267-b700-ff7ea0d2a2d0)
+
 
 
